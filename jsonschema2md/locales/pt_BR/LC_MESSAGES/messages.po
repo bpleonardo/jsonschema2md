@@ -34,11 +34,11 @@ msgstr "Deve ser do tipo *%(type)s*."
 
 #, python-format
 msgid "Content encoding: `%(encoding)s`."
-msgstr "Codificação de conteúdo: `%(encoding)s`."
+msgstr "Codificação do conteúdo: `%(encoding)s`."
 
 #, python-format
 msgid "Content media type: `%(type)s`."
-msgstr "Tipo de conteúdo de mídia: `%(type)s`."
+msgstr "Tipo de mídia do conteúdo: `%(type)s`."
 
 #, python-format
 msgid "Minimum: `%(min)d`."
@@ -103,7 +103,7 @@ msgid ""
 "Contains schema must be matched between %(min)d and %(max)d times "
 "(inclusive)."
 msgstr ""
-"O esquema contains deve corresponder entre %(min)d e %(max)d vezes "
+"O esquema \"contains\" deve corresponder entre %(min)d e %(max)d vezes "
 "(inclusivo)."
 
 #, python-format
